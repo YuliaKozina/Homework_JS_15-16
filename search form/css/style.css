@@ -28,10 +28,17 @@ section {
 
 #searchingResults {
     margin: 20px;
-    font-size: 16px;
 }
 
 .result {
     margin-top: 10px;
-    font-size: 14px;
+    font-size: 20px;
+}
+
+.title_link {
+    text-decoration: none;
+}
+
+.title {
+    font-size: 30px;
 }
